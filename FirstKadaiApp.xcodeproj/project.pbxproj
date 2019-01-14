@@ -149,8 +149,10 @@
 			children = (
 				8DEEF97021ECBF6200A4752C /* Base */,
 			);
+			indentWidth = 4;
 			name = Main.storyboard;
 			sourceTree = "<group>";
+			tabWidth = 4;
 		};
 		8DEEF97421ECBF6200A4752C /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
